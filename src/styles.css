@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  height: 100%;
+  padding: 10px;
+  background-color: #30cfd0;
+  width: 600px;
+}
+form {
+  display: block;
+}
+h1 {
+  color: rgb(184, 181, 255);
+  font-size: 50px;
+  font-family: "Comfortaa", cursive;
+}
+h2 {
+  color: #b8b5ff;
+}
+.col-6 {
+  color: #fde8cd;
+  font-size: 20px;
+}
+.col-sm {
+  color: bisque;
+  font-size: 20px;
+}
