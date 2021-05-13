@@ -8,6 +8,10 @@ body {
 form {
   display: block;
 }
+figure {
+  margin: 0;
+}
+
 h1 {
   color: rgb(184, 181, 255);
   font-size: 50px;
@@ -15,6 +19,10 @@ h1 {
 }
 h2 {
   color: #b8b5ff;
+}
+footer {
+  text-align: center;
+  color: rgb(99, 96, 197);
 }
 .col-6 {
   color: #fde8cd;
