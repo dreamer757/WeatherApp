@@ -1,10 +1,8 @@
 body {
-  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
-  background-repeat: no-repeat;
   margin: 0 auto;
   height: 100%;
   padding: 10px;
-  background-color: #30cfd0;
+  background-color: #fde8cd;
   width: 600px;
 }
 form {
@@ -25,4 +23,13 @@ h2 {
 .col-sm {
   color: bisque;
   font-size: 20px;
+}
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto 2px;
+  padding: 20px;
+  color: #ffffff;
+  border-radius: 10px;
+  background-image: linear-gradient(to top, #30cfd0 0%, #8851cc 100%);
+  filter: drop-shadow(0 0 0.1rem rgba(36, 36, 37, 0.4));
 }
